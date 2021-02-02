@@ -7,7 +7,7 @@
 
 
 
-🏡 Brazilian, Based inland of São Paulo.
+🏡 Brazilian, based inland of São Paulo. <br>
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bentoco/) or [bentoco@outlook.com.br](mailto:bentoco@outlook.com.br) <br> 
  ⚡ Fun fact: I have a cat named Kurt :cat:. When I was 7 years old a gas truck hit me, which is why I'm so weird :feelsgood: <br> 
  
