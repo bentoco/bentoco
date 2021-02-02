@@ -10,3 +10,6 @@
 🏡 Brazilian, Based inland of São Paulo.
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bentoco/) or [bentoco@outlook.com.br](mailto:bentoco@outlook.com.br) <br> 
  ⚡ Fun fact: I have a cat named Kurt :cat:. When I was 7 years old a gas truck hit me, which is why I'm so weird :feelsgood: <br> 
+ 
+ :bird: Twitter: [https://twitter.com/bentobei](https://twitter.com/bentobei) <br>
+ :dog: Gitlab: [gitlab.com/bentoco](gitlab.com/bentoco) <br>
