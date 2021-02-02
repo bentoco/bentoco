@@ -2,14 +2,14 @@
 
 :hourglass: Working as Support Analyst at [Santos Center](https://www.linkedin.com/company/santos-center-produtos-alimenticios) <br>
 :mortar_board: I have a degree in Development of Systems at USF <br>
-:computer: I like to develop with backend projects, work with continuous integration tools and cloud native solutions. <br> 
+:computer: I like to develop with backend projects, work with continuous integration tools and cloud native solutions <br> 
 :book: I'm currently learning language programming Java and Javascript with [@nodejs](https://github.com/nodejs) and [@spring](https://github.com/spring-projects) <br> 
 
 
 
 🏡 Brazilian, based inland of São Paulo. <br>
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bentoco/) or [bentoco@outlook.com.br](mailto:bentoco@outlook.com.br) <br> 
- ⚡ Fun fact: I have a cat named Kurt :cat:. When I was 7 years old a gas truck hit me, which is why I'm so weird :feelsgood: <br> 
+ ⚡ Fun fact: I have a cat named Kurt :cat2:. When I was 7 years old a gas truck hit me, which is why I'm so weird :feelsgood:. I like longboarding with friends :snowboarder: <br> 
  
  :bird: Twitter: [https://twitter.com/bentobei](https://twitter.com/bentobei) <br>
  :dog: Gitlab: [gitlab.com/bentoco](gitlab.com/bentoco) <br>
