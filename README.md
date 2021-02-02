@@ -9,7 +9,7 @@
 
 🏡 Brazilian, based inland of São Paulo. <br>
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bentoco/) or [bentoco@outlook.com.br](mailto:bentoco@outlook.com.br) <br> 
- ⚡ Fun fact: I have a cat named Kurt :cat2:. When I was 7 years old a gas truck hit me, which is why I'm so weird :feelsgood:. I like longboarding with friends :snowboarder: <br> 
+ ⚡ Fun fact: I have a cat named Kurt :cat2:. When I was 7 years old a gas truck hit me, which is why I'm so weird. I like longboarding with friends <br> 
  
  :bird: Twitter: [@bentobei](https://twitter.com/bentobei) <br>
  :dog: Gitlab: [gitlab.com/bentoco](gitlab.com/bentoco) <br>
