@@ -1,7 +1,5 @@
 ###  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Call me Gabriel, I'm graduated in analysis and development of computer systems. I'm from Brazil, and I'm currently based inland of São Paulo.
-
 [![Linkedin: bentoco](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bentoco/)](https://www.linkedin.com/in/bentoco/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bentobei?style=social)](https://twitter.com/bentobei)
 
@@ -10,6 +8,7 @@ Call me Gabriel, I'm graduated in analysis and development of computer systems. 
 These are some of the technologies and tools that I work with:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
