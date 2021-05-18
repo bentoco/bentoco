@@ -4,9 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bentobei?style=social)](https://twitter.com/bentobei)
 
 ### ⚡ Technologies
-
-These are some of the technologies and tools that I work with:
-
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
